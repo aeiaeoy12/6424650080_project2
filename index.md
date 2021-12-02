@@ -47,6 +47,6 @@ University : Thammasat Univercity (Data Science and Innovation)
 
 ### MISCELLANEUS
 
-language : Thai , English
+Language : Thai , English
 
 Interest : Sing , Movie , Guitar
