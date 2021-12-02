@@ -39,14 +39,23 @@ High School : Boonwattana School (English Program , Mathematics-Science)
 
 University : Thammasat Univercity (Data Science and Innovation)
 
+### ACTIVITY
+
+- Cheerleader Sport day (2018,2019)
+
+- International Christmas Costume Contest (2020)
+
 ### Honors/ Awards
 
-1. <a href="https://www.picz.in.th/image/6QVzfI"><img src="https://sv1.picz.in.th/images/2021/12/02/6QVzfI.md.jpg" alt="6QVzfI.jpg" border="0" /></a>]
+- First place Cheerleader Sport day
 
-2. <a href="https://www.picz.in.th/image/6QVEL9"><img src="https://sv1.picz.in.th/images/2021/12/02/6QVEL9.md.jpg" alt="6QVEL9.jpg" border="0" /></a>
+-  <a href="https://www.picz.in.th/image/6QVzfI"><img src="https://sv1.picz.in.th/images/2021/12/02/6QVzfI.md.jpg" alt="6QVzfI.jpg" border="0" /></a>]
+
+-  <a href="https://www.picz.in.th/image/6QVEL9"><img src="https://sv1.picz.in.th/images/2021/12/02/6QVEL9.md.jpg" alt="6QVEL9.jpg" border="0" /></a>
+
 
 ### MISCELLANEUS
 
 Language : Thai , English
 
-Interest : Sing , Movie , Guitar
+Interest : Sing , Movie , Guitar , Youtube
