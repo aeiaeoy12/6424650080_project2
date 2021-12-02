@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## NATAVIPHA SORAPETPISAI
 
-You can use the [editor on GitHub](https://github.com/aeiaeoy12/Project-2-TU-107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://www.picz.in.th/image/6QVP6z"><img src="https://sv1.picz.in.th/images/2021/12/02/6QVP6z.md.jpg" alt="6QVP6z.jpg" border="0" /></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PROFILE
 
-### Markdown
+Name : Natavipha Sorapetpisai
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nickname : Aeiaeoy
 
-```markdown
-Syntax highlighted code block
+Birthday : January 12, 2003
 
-# Header 1
-## Header 2
-### Header 3
+Age : 18 Years old
 
-- Bulleted
-- List
+Marital status : Single
 
-1. Numbered
-2. List
+Nationality : Thai
 
-**Bold** and _Italic_ and `Code` text
+### CONTACT
+- natavipha@gmail.com
 
-[Link](url) and ![Image](src)
-```
+### HOBBIES
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Reading books
 
-### Jekyll Themes
+- Watching YouTube videos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aeiaeoy12/Project-2-TU-107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Editing videos
 
-### Support or Contact
+- Loving to sing
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Playing a guitar
+
+### EDUCATION
+
+Primary School : Anuban Nakhonratchasima School 
+
+High School : Boonwattana School (English Program , Mathematics-Science)
+
+University : Thammasat Univercity (Data Science and Innovation)
+
+### Honors/ Awards
+
+1. <a href="https://www.picz.in.th/image/6QVzfI"><img src="https://sv1.picz.in.th/images/2021/12/02/6QVzfI.md.jpg" alt="6QVzfI.jpg" border="0" /></a>]
+
+2. <a href="https://www.picz.in.th/image/6QVEL9"><img src="https://sv1.picz.in.th/images/2021/12/02/6QVEL9.md.jpg" alt="6QVEL9.jpg" border="0" /></a>
+
+### MISCELLANEUS
+
+language : Thai , English
+
+Interest : Sing , Movie , Guitar
