@@ -41,11 +41,17 @@ University : Thammasat Univercity (Data Science and Innovation)
 
 ### ACTIVITY
 
+- Singing Contest in English (2017)
+
 - Cheerleader Sport day (2018,2019)
+
+- Reading the Thai poems (2019)
 
 - International Christmas Costume Contest (2020)
 
 ### Honors/ Awards
+
+- Gold medal of Englist Singing Contest
 
 - First place Cheerleader Sport day
 
